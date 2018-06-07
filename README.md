@@ -1,4 +1,4 @@
-https://giphy.com/gifs/dance-friday-t-w8f9g2x44aGI# Assignments
+Assignments
 This repository contains my assignments
 
 [Assignment2](https://github.com/JohanW99/Assignments/blob/master/assignment2.ipynb),
